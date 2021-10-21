@@ -10,6 +10,6 @@ C. Compare the results and the speed of convergence of the 2 models and the ease
 
 The dataset [1] can be found at : https://archive.ics.uci.edu/ml/datasets/covertype
 
-Acknowledgement : 
+Citation : 
 
 [1]. Joao Gama and Ricardo Rocha and Pedro Medas. Accurate decision trees for mining high-speed data streams. KDD. 2003.
