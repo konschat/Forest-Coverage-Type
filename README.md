@@ -1,0 +1,1 @@
+# Forest-Coverage-Type
