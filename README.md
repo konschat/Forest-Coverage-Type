@@ -7,3 +7,9 @@ A. Construction of a logistic regression model using the "LBFGS" solution algori
 B. As in sub-question B, using Linear Discriminant Analysis (without the parameter sensitivity analysis).
 
 C. Compare the results and the speed of convergence of the 2 models and the ease with which models with similar performance were produced in each case. The example is instructive: In algorithms that have a limited theoretical background we often have to experiment without guidance to get a good result (on the other hand, it is often our only choice).
+
+The dataset [1] can be found at : https://archive.ics.uci.edu/ml/datasets/covertype
+
+Acknowledgement : 
+
+[1]. Joao Gama and Ricardo Rocha and Pedro Medas. Accurate decision trees for mining high-speed data streams. KDD. 2003.
